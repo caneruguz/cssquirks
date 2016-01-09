@@ -1,2 +1,38 @@
 /* Styles */
 
+.box {
+    width: 100px;
+    height: 100px;
+}
+
+.blue {
+    background-color: blue;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+.red {
+    background-color: red;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    z-index: 9;
+}
+
+.green {
+    background-color: green;
+    position: absolute;
+    top: 60px;
+    left: 60px;
+    z-index : 12;
+
+
+}
+
+
+.wrap-red {
+    z-index: 14;
+}
+
+
