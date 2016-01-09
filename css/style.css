@@ -1,2 +1,13 @@
 /* Styles */
 
+p {
+    color: blue;
+}
+
+.greeting {
+    color: red;
+}
+
+#unique {
+    color: green;
+}
